@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "ossuser",
+    "password": "db0ss2017",
+    "database": "oss",
+    "host": "10.1.2.87",
+    "port": "3306",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}

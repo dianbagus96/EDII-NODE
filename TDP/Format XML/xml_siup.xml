@@ -1,0 +1,55 @@
+<binus_siup>
+	<perijinan>
+		<jenis_permohonan>[Jenis Permohonan, n, Lampiran 1, M]</jenis_permohonan>
+		<jenis_siup>[Jenis SIUP, n, Lampiran 11, M]</jenis_siup>
+		<no_ijin>[No. SIUP, an 50, M]</no_ijin>
+		<tgl_ijin>[Tgl. SIUP, an 8, Format YYYYMMDD, M]</tgl_ijin>
+		<tgl_akhir>[Tgl. Akhir SIUP, an 8, Format YYYYMMDD, M]</tgl_akhir>
+		<nama_ttd>[Nama Pejabat Penandatangan, an 50, M]</nama_ttd>
+		<jabat_ttd>[Jabatan Pejabat Penandatangan, an 50, M]</jabat_ttd>
+		<nip_ttd>[NIP Pejabat Penandatangan, an 20, M]</nip_ttd>
+	</perijinan>
+	<perusahaan>
+		<bentuk_usaha>[Bentuk Usaha Perusahaan, n, Lampiran 2, M]</bentuk_usaha>
+		<npwp>[NPWP Perusahaan, tanpa format, an 15, M]</npwp>
+		<nama>[Nama Perusahaan, an 100, M]</nama>
+		<alamat>[Alamat Perusahaan, an 255, M]</alamat>
+		<telepon>[Telepon Perusahaan, an 50, M]</telepon>
+		<fax>[Fax Perusahaan, an 50, M]</fax>
+		<idprop>[Kode Propinsi, an 2, Tabel Referensi Propinsi, M]</idprop>
+		<idkab>[Kode Kabupaten, an 4, Tabel Referensi Kabupaten, M]</idkab>
+		<idkec>[Kode Kecamatan, an 7, Tabel Referensi Kecamatan, M]</idkec>
+		<idkel>[Kode Kelurahan, an 10, Tabel Referensi Kelurahan, M]</idkel>
+		<kode_pos>[Kode Pos, an 6]</kode_pos>
+		<status_perusahaan>[Status Perusahaan, n, Lampiran 4, M]</status_perusahaan>
+		<kekayaan>[Nilai Kekayaan Bersih, n, M]</kekayaan>
+		<saham>[Total Nilai Saham, n, M]</saham>
+		<milik_nasional>[Kepemilikan Saham Nasional, n, M]</milik_nasional>
+		<milik_asing>[Kepemilikan Saham Asing, n, M]</milik_asing>
+		<kbli>[KBLI, an 5, M]</kbli>
+		<kelembagaan>[Kelembagaan, an 255, M]</kelembagaan>
+		<dagangan_utama>[Barang/jasa dagangan Utama, an 255, M]</dagangan_utama>
+	</perusahaan>
+	<pimpinan>
+		<penanggung_jawab>[Nama Penanggung Jawab, an 100, M]</penanggung_jawab>
+		<jabatan>[Jabatan, n, Tabel Referensi Jabatan, M]</jabatan>
+		<alamat>[Alamat, an 255, M]</alamat>
+		<tempat_lahir>[Tempat Lahir, an 50, M]</tempat_lahir>
+		<tanggal_lahir>[Tanggal Lahir, an 8, Format YYYYMMDD, M]</tanggal_lahir>
+		<telepon>[Telepon/HP, an 50, M]</telepon>
+		<fax>[Fax, an 50]</fax>
+		<jenis_identitas>[Jenis Identitas, n, Lampiran 9, M]</jenis_identitas>
+		<no_identitas>[No. Identitas, an 50, M]</no_identitas>
+		<negara>[Kewarganegaraan, an 2, Tabel Referensi Negara, M]</negara>
+	</pimpinan>
+	<legalitas>
+		<no_pendirian>[No. Akta Pendirian, an 100, M]</no_pendirian>
+		<tgl_pendirian>[Tanggal Akta Pendirian, an 8, Format YYYYMMDD, M]</tgl_pendirian>
+		<no_pendirian_pengesahan>[No. Akta Pengesahan Pendirian, an 100, M]</no_pendirian_pengesahan>
+		<tgl_pendirian_pengesahan>[Tanggal Akta Pengesahan Pendirian, an 8, Format YYYYMMDD, M]</tgl_pendirian_pengesahan>
+		<no_perubahan>[No. Akta Perubahan, an 100, M]</no_perubahan>
+		<tgl_perubahan>[Tanggal Akta Perubahan, an 8, Format YYYYMMDD, M]</tgl_perubahan>
+		<no_perubahan_pengesahan>[No. Akta Pengesahan Perubahan, an 100, M]</no_perubahan_pengesahan>
+		<tgl_perubahan_pengesahan>[Tanggal Akta Pengesahan Perubahan, an 8, Format YYYYMMDD, M]</tgl_perubahan_pengesahan>
+	</legalitas>
+</binus_siup>

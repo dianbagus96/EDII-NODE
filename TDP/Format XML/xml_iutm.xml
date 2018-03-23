@@ -1,0 +1,36 @@
+<binus_iutm>
+	<perijinan>
+		<jenis_permohonan>[Jenis Permohonan, n, Lampiran 1, M]</jenis_permohonan>
+		<pembaharuan>[Urutan Pembaharuan, n, M]</pembaharuan>
+		<no_ijin>[No. IUTM, an 50, M]</no_ijin>
+		<tgl_ijin>[Tgl. IUTM, an 8, Format YYYYMMDD, M]</tgl_ijin>
+		<tgl_akhir>[Tgl. Akhir IUTM, an 8, Format YYYYMMDD, M]</tgl_akhir>
+		<nama_ttd>[Nama Pejabat Penandatangan, an 50, M]</nama_ttd>
+		<jabat_ttd>[Jabatan Pejabat Penandatangan, an 50, M]</jabat_ttd>
+		<nip_ttd>[NIP Pejabat Penandatangan, an 20, M]</nip_ttd>
+	</perijinan>
+	<perusahaan>
+		<npwp>[NPWP Perusahaan, tanpa format, an 15, M]</npwp>
+		<nama>[Nama Perusahaan, an 100, M]</nama>
+		<alamat>[Alamat Perusahaan, an 255, M]</alamat>
+		<idprop>[Kode Propinsi, an 2, Tabel Referensi Propinsi, M]</idprop>
+		<idkab>[Kode Kabupaten, an 4, Tabel Referensi Kabupaten, M]</idkab>
+		<idkec>[Kode Kecamatan, an 7, Tabel Referensi Kecamatan, M]</idkec>
+		<idkel>[Kode Kelurahan, an 10, Tabel Referensi Kelurahan, M]</idkel>
+		<alamat_usaha>[Alamat Usaha, an 255, M]</alamat_usaha>
+		<kode_pos>[Kode Pos, an 6]</kode_pos>
+		<telepon>[Telepon Perusahaan, an 50, M]</telepon>
+		<fax>[Fax Perusahaan, an 50, M]</fax>
+		<bidang_usaha>[Bidang Usaha, n, Lampiran 14, M]</bidang_usaha>
+		<klasifikasi_usaha>[Klasifikasi Usaha, n, Lampiran 5, M]</klasifikasi_usaha>
+		<dagangan_utama>[Barang Dagangan Utama, an 255, M]</dagangan_utama>
+		<luas_tanah>[Luas Tanah, n, M]</luas_tanah>
+		<luas_bangunan>[Luas Bangunan, n, M]</luas_bangunan>
+		<luas_lantai>[Luas Lantai, n, M]</luas_lantai>
+	</perusahaan>
+	<pimpinan>
+		<penanggung_jawab>[Nama Penanggung Jawab, an 100, M]</penanggung_jawab>
+		<alamat_penanggung>[Alamat Penanggung Jawab, an 255, M]</alamat_penanggung>
+		<jabatan>[Jabatan, n, Tabel Referensi Jabatan, M]</jabatan>
+	</pimpinan>
+</binus_iutm>

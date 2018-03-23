@@ -1,0 +1,74 @@
+<binus_stpw>
+	<perijinan>
+		<jenis_permohonan>[Jenis Permohonan, n, Lampiran 1, M]</jenis_permohonan>
+		<jenis_waralaba>[Jenis Waralaba, n, Lampiran 12, M]</jenis_waralaba>
+		<lokasi>[Lokasi Perusahaan, n, Lampiran 13, M]</lokasi>
+		<no_ijin>[No. STPW, an 50, M]</no_ijin>
+		<tgl_ijin>[Tgl. STPW, an 8, Format YYYYMMDD, M]</tgl_ijin>
+		<berlaku>[Masa Berlaku, n, M]</berlaku>
+		<nama_ttd>[Nama Pejabat Penandatangan, an 50, M]</nama_ttd>
+		<jabat_ttd>[Jabatan Pejabat Penandatangan, an 50, M]</jabat_ttd>
+		<nip_ttd>[NIP Pejabat Penandatangan, an 20, M]</nip_ttd>
+	</perijinan>
+	<perusahaan>
+		<npwp>[NPWP Perusahaan, tanpa format, an 15, M]</npwp>
+		<nama>[Nama Perusahaan, an 100, M]</nama>
+		<bentuk_usaha>[Bentuk Usaha Perusahaan, n, Lampiran 2, M]</bentuk_usaha>
+		<alamat>[Alamat Perusahaan, an 255, M]</alamat>
+		<negara>[Negara Perusahaan, an 2, Tabel Referensi Negara, M]</negara>
+		<telepon>[Telepon Perusahaan, an 50, M]</telepon>
+		<fax>[Fax Perusahaan, an 50, M]</fax>
+		<email>[Alamat Email Perusahaan, an 50, M]</email>
+		<kelola_sendiri>[Jumlah Tempat Usaha Dikelola Sendiri, n, M]</kelola_sendiri>
+		<diwaralabakan>[Jumlah Tempat Usaha Diwaralabakan, n, M]</diwaralabakan>
+		<jenis_dagang>[Jenis Usaha yang Diwaralabakan, an 100, M]</jenis_dagang>
+		<merek_waralaba>[Merek Usaha yang Diwaralabakan, an 100, M]</merek_waralaba>
+	</perusahaan>
+	<pimpinan>
+		<npwp>[NPWP Pimpinan, an 15, M]</npwp>
+		<nama>[Nama, an 100, M]</nama>
+		<negara>[Kewarganegaraan, an 2, Tabel Referensi Negara, M]</negara>
+		<jabatan>[Jabatan, n, Tabel Referensi Jabatan, M]</jabatan>
+		<alamat>[Alamat, an 255, M]</alamat>
+		<telepon>[Telepon/HP, an 50, M]</telepon>
+		<fax>[Fax, an 50]</fax>
+		<email>[Email, an 50]</email>
+	</pimpinan>
+	<pemberi_waralaba>
+		<nama>[Nama Pemberi Waralaba, an 100, M]</nama>
+		<alamat>[Alamat, an 255, M]</alamat>
+		<negara>[Negara, an 2, Tabel Referensi Negara, M]</negara>
+		<bentuk_usaha>[Bentuk Usaha, n, Lampiran 2, M]</bentuk_usaha>
+		<telepon>[Telepon/HP, an 50, M]</telepon>
+		<fax>[Fax, an 50]</fax>
+		<email>[Email, an 50]</email>
+	</pemberi_waralaba>
+	<legalitas>
+		<legal_penerbit>[Penerbit Dokumen Legalitasi Usaha, an 100, M]</legal_penerbit>
+		<legal_jenis>[Jenis Dokumen, an 100, M]</legal_jenis>
+		<legal_nomor>[No. Dokumen, an 50, M]</legal_nomor>
+		<legal_tanggal>[Tgl. Dokumen, an 8, Format YYYYMMDD, M]</legal_tanggal>
+		<pendirian_nomor>[No. Akta Pendirian, an 50, M]</pendirian_nomor>
+		<pendirian_tanggal>[Tgl. Akta Pendirian, an 8, Format YYYYMMDD, M]</pendirian_tanggal>
+		<pengesahan_nomor>[No. Akta Pengesahan, an 50, M]</pengesahan_nomor>
+		<pengesahan_tanggal>[Tgl. Akta Pengesahan, an 8, Format YYYYMMDD, M]</pengesahan_tanggal>
+		<tdp_nomor>[No. TDP, an 50, M (Bila Lokasi Dalam Negeri)]</tdp_nomor>
+		<tdp_tanggal>[Tgl. TDP, an 8, Format YYYYMMDD, M]</tdp_tanggal>
+		<hki_penerbit>[Penerbit Dokumen HKI, an 100]</hki_penerbit>
+		<hki_nomor>[No. Dokumen HKI, an 50]</hki_nomor>
+		<hki_tanggal>[Tgl. Dokumen HKI, an 8, Format YYYYMMDD]</hki_tanggal>
+		<hki_berlaku>[Masa Berlaku HKI, n]</hki_berlaku>
+	</legalitas>
+	<perjanjian_waralaba>
+		<nomor>[No. Perjanjian Waralaba, an 50, M]</nomor>
+		<tanggal>[Tgl. Perjanjuan Waralaba, an 8, Format YYYYMMDD, M]</tanggal>
+		<berlaku>[Masa Berlaku, n, M]</berlaku>
+		<wilayah>[Wilayah Usaha, an 2, Tabel Referensi Propinsi, M]</wilayah>
+	</perjanjian_waralaba>
+	<stpw_pemberi>
+		<penerbit>[Penerbit STPW Pemberi Waralaba, an 100, M]</penerbit>
+		<nomor>[No. STPW Pemberi Waralaba, an 50, M]</nomor>
+		<tanggal>[Tgl. STPW Pemberi Waralaba, an 8, Format YYYYMMDD, M]</tanggal>
+		<berlaku>[Masa Berlaku, n, M]</berlaku>
+	</stpw_pemberi>
+</binus_stpw>

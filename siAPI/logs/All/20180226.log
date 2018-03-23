@@ -1,0 +1,31 @@
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:01:21.706Z"}
+{"level":"info","message":"::1 - - [Mon, 26 Feb 2018 05:01:28 GMT] \"GET /services/send_doc HTTP/1.1\" 200 45 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\"\n","timestamp":"2018-02-26T05:01:28.806Z"}
+{"level":"info","message":"::1 - - [Mon, 26 Feb 2018 05:01:47 GMT] \"POST /services/send_doc HTTP/1.1\" 400 51 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\"\n","timestamp":"2018-02-26T05:01:47.838Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:03:31.822Z"}
+{"level":"info","message":"::1 - - [Mon, 26 Feb 2018 05:03:35 GMT] \"POST /services/send_doc HTTP/1.1\" 400 51 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\"\n","timestamp":"2018-02-26T05:03:35.870Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:04:12.750Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:04:20.785Z"}
+{"level":"info","message":"::1 - - [Mon, 26 Feb 2018 05:04:24 GMT] \"POST /services/send_doc HTTP/1.1\" 400 51 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\"\n","timestamp":"2018-02-26T05:04:24.158Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:04:41.138Z"}
+{"level":"info","message":"::1 - - [Mon, 26 Feb 2018 05:04:43 GMT] \"POST /services/send_doc HTTP/1.1\" 400 51 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\"\n","timestamp":"2018-02-26T05:04:43.291Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:04:53.190Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:04:57.858Z"}
+{"level":"info","message":"::1 - - [Mon, 26 Feb 2018 05:05:00 GMT] \"POST /services/send_doc HTTP/1.1\" 400 51 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\"\n","timestamp":"2018-02-26T05:05:00.808Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:05:17.271Z"}
+{"level":"info","message":"::1 - - [Mon, 26 Feb 2018 05:05:19 GMT] \"POST /services/send_doc HTTP/1.1\" 400 51 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\"\n","timestamp":"2018-02-26T05:05:19.445Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:05:35.772Z"}
+{"date":"Mon Feb 26 2018 12:05:35 GMT+0700 (WIB)","process":{"pid":2618,"uid":1000,"gid":1000,"cwd":"/home/dianbagus/NODE/siAPI","execPath":"/usr/local/bin/node","version":"v9.4.0","argv":["/usr/local/bin/node","/home/dianbagus/NODE/siAPI/server.js"],"memoryUsage":{"rss":42913792,"heapTotal":19218432,"heapUsed":12258816,"external":290449}},"os":{"loadavg":[2.2255859375,2.994140625,2.80029296875],"uptime":45319},"trace":[{"column":7,"file":"vm.js","function":"new Script","line":51,"method":null,"native":false},{"column":10,"file":"vm.js","function":"createScript","line":138,"method":null,"native":false},{"column":10,"file":"vm.js","function":"Object.runInThisContext","line":199,"method":"runInThisContext","native":false},{"column":28,"file":"module.js","function":"Module._compile","line":624,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Module._extensions..js","line":671,"method":".js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":573,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":513,"method":null,"native":false},{"column":3,"file":"module.js","function":"Module._load","line":505,"method":"_load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":604,"method":"require","native":false},{"column":18,"file":"internal/module.js","function":"require","line":11,"method":null,"native":false}],"stack":["/home/dianbagus/NODE/siAPI/api/controllers/apipController.js:424","                    api_sign_ga         : \"1,","                                          ^^^","","SyntaxError: Invalid or unexpected token","    at new Script (vm.js:51:7)","    at createScript (vm.js:138:10)","    at Object.runInThisContext (vm.js:199:10)","    at Module._compile (module.js:624:28)","    at Object.Module._extensions..js (module.js:671:10)","    at Module.load (module.js:573:32)","    at tryModuleLoad (module.js:513:12)","    at Function.Module._load (module.js:505:3)","    at Module.require (module.js:604:17)","    at require (internal/module.js:11:18)"],"level":"error","message":"uncaughtException: Invalid or unexpected token","timestamp":"2018-02-26T05:05:35.781Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:05:36.779Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:05:39.573Z"}
+{"level":"info","message":"::1 - - [Mon, 26 Feb 2018 05:05:41 GMT] \"POST /services/send_doc HTTP/1.1\" 201 560 \"-\" \"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36\"\n","timestamp":"2018-02-26T05:05:41.620Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:06:19.576Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:06:29.068Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:06:30.930Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:07:37.328Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:07:40.438Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:07:41.784Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T05:07:45.540Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T06:39:24.142Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T07:53:51.186Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T07:55:13.530Z"}
+{"level":"info","message":"Listening on 3000","timestamp":"2018-02-26T07:56:11.222Z"}

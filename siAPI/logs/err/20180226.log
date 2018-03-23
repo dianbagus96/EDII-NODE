@@ -1,0 +1,1 @@
+{"level":"info","message":"[Exception Errors] - SequelizeDatabaseError: Data too long for column 'api_sign_ga' at row 1","timestamp":"2018-02-26T05:05:19.443Z"}

@@ -1,0 +1,8 @@
+{"level":"info","message":"[OSSID Can't Find in System] - SequelizeDatabaseError: Unknown column 'createdAt' in 'field list'","timestamp":"2018-02-19T09:07:23.902Z"}
+{"level":"info","message":"[OSSID Can't Find in System] - SequelizeDatabaseError: Unknown column 'createdAt' in 'field list'","timestamp":"2018-02-19T09:07:41.390Z"}
+{"level":"info","message":"[OSSID Can't Find in System] - TypeError: Cannot read property 'findOrCreate' of null","timestamp":"2018-02-19T09:08:27.667Z"}
+{"level":"info","message":"[OSSID Can't Find in System] - ReferenceError: tblfcosshdr is not defined","timestamp":"2018-02-19T09:08:54.309Z"}
+{"level":"info","message":"[Exception Errors] - SequelizeDatabaseError: Incorrect datetime value: 'Invalid date' for column 'date_activities' at row 1","timestamp":"2018-02-19T09:09:27.534Z"}
+{"level":"info","message":"[OSSID Can't Find in System] - ReferenceError: Tblfcossnik is not defined","timestamp":"2018-02-19T10:02:46.897Z"}
+{"level":"info","message":"[OSSID Can't Find in System] - TypeError: Cannot read property 'company_id' of null","timestamp":"2018-02-19T10:03:21.242Z"}
+{"level":"info","message":"[Exception Errors] - SequelizeDatabaseError: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ',,,,,,,,,'','','','','','','','','','','','','','','','','','','','','','','',''' at line 1","timestamp":"2018-02-19T10:04:05.913Z"}
